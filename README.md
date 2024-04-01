@@ -20,4 +20,4 @@ This project leverages several Flutter packages from [pub.dev](https://pub.dev/)
 - `connectivity_plus (^5.0.2)`: Allows the app to discover network connectivity and configure itself accordingly. It's crucial for handling network-aware operations.
 
 ## Contribution
-This project is in its initial phase and welcomes contributions from the community. Whether it's feature enhancement, UI/UX improvements, or adding dynamic functionalities, your input can help take the Student Companion App to the next level.
+This project is in its initial phase and welcomes contributions from the community. Whether it's feature enhancement, UI/UX improvements, or adding dynamic functionalities, your input can help take the clothing App to the next level.
